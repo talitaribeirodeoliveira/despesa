@@ -1,4 +1,5 @@
 package model;
 
 public class Meta{
-  double
+ public double = 'valor'.
+  public st
