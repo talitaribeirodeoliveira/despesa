@@ -6,4 +6,4 @@ public class Meta{
    public double salario
     public double quantos_a_guardar
      public string 
- 
+       
