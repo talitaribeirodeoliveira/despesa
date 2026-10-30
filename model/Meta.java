@@ -2,4 +2,6 @@ package model;
 
 public class Meta{
  public double = 'valor'.
-  public string = 'meta 
+  public string = 'meta_sonho'.
+
+ 
